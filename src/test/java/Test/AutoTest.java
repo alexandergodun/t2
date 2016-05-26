@@ -51,13 +51,13 @@ public class AutoTest {
         steps.search(searchworld);
         Assert.assertTrue(steps.isSearched());
     }
-
+/*
     //6 добавить в корзину
     @Test(description = "enterBasket myfish.by")
     public void enterBasket() throws InterruptedException {
         steps.enterBasket();
         Assert.assertTrue(steps.isEnterBasket());
-    }/*
+    }
     //7 удалить из корзины
     @Test(description = "deleteBasket myfish.by")
     public void deleteBasket() throws InterruptedException {
