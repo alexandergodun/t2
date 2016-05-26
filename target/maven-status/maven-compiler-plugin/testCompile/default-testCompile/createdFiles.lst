@@ -1,0 +1,10 @@
+Pages\Liked.class
+Pages\Search.class
+Pages\Compare.class
+Pages\EnterBasket.class
+Pages\Subscribe.class
+Pages\DeleteBasket.class
+Pages\Recall.class
+Pages\LoginPage.class
+Test\AutoTest.class
+Pages\ChangePassword.class
